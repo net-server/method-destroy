@@ -1,0 +1,20 @@
+{
+  "name": "net-server-method-destroy",
+  "version": "0.0.0",
+  "description": "provides a net.Server method for destroying the Server",
+  "author": "dan entous",
+  "license": "MIT",
+  "main": "src",
+  "keywords": [
+    "net.Server method",
+    "net.Server method destroy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/net-server/method-destroy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/net-server/method-destroy/issues"
+  },
+  "homepage": "https://github.com/net-server/method-destroy#readme"
+}
